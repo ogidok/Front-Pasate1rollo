@@ -67,4 +67,4 @@ Si te interesa saber más del proyecto, puedes contactar al autor directamente.
 
 ---
 
-**© 2025 – Pasate1rollo | Diseño visual protegido**
+**© 2025 – Pasate1rollo ,Ogidok | Diseño visual protegido**

@@ -34,12 +34,12 @@ Aquí solo se documenta el **aspecto visual** de la aplicación **Pasate1rollo**
 ---
 
 ### 🔐 Pantalla de Login
-![login](https://github.com/user-attachments/assets/213d8244-2cf9-4e3b-a32e-98af3bf13cb4)
+![login](https://github.com/user-attachments/assets/9e5eb75f-1810-4287-b84f-fd2afe4ba5b8)
 
 ---
 
 ### 📝 Pantalla de Registro
-![registro](https://github.com/user-attachments/assets/ebc834c0-1301-442d-9c29-ce1a187ad7d7)
+![registro](https://github.com/user-attachments/assets/1389aeaa-af43-4b95-b4ea-9b6f4b8699be)
 
 ---
 

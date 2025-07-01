@@ -22,16 +22,20 @@ Aquí solo se documenta el **aspecto visual** de la aplicación **Pasate1rollo**
 ![home](https://github.com/user-attachments/assets/b4b67e53-aeb2-427d-8098-edf0d23e50dc)
 
 ---
-
-### 📜 Vista Detallada de un Rollo
-![detalle_rollo](https://github.com/user-attachments/assets/68c81968-6e60-4d43-9f5b-ddfe8347e240)
-
----
-
 ### 📦 Listado de Productos
 ![productos list](https://github.com/user-attachments/assets/f3d9d6f4-227b-4e97-bf36-0a9892671723)
 
 ---
+### 📜 Vista Detallada de un Rollo
+![detalle_rollo](https://github.com/user-attachments/assets/35ea90a8-deb1-4c5b-ac1f-ac5f77b6ccfe)
+
+
+---
+### 📜 Vista Detallada de un Producto
+![detalle_producto](https://github.com/user-attachments/assets/32ae7ab0-c837-4a0a-8d9c-532fd88a5747)
+
+---
+
 
 ### 🔐 Pantalla de Login
 ![login](https://github.com/user-attachments/assets/9e5eb75f-1810-4287-b84f-fd2afe4ba5b8)

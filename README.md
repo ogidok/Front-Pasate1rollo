@@ -46,6 +46,10 @@ Aquí solo se documenta el **aspecto visual** de la aplicación **Pasate1rollo**
 ![registro](https://github.com/user-attachments/assets/1389aeaa-af43-4b95-b4ea-9b6f4b8699be)
 
 ---
+### 📝 Pantalla de Footer
+![footer](https://github.com/user-attachments/assets/53b42f8b-1733-41be-9c12-502dfb180f31)
+
+---
 
 ## 🔒 Seguridad y Confidencialidad
 

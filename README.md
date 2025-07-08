@@ -36,6 +36,13 @@ Aquí solo se documenta el **aspecto visual** de la aplicación **Pasate1rollo**
 
 ---
 
+---
+### 📜 Vista Detallada de perfil
+![perfil](https://github.com/user-attachments/assets/1b8c026b-b852-442e-bcea-8cdd254e41e5)
+
+
+---
+
 
 ### 🔐 Pantalla de Login
 ![login](https://github.com/user-attachments/assets/9e5eb75f-1810-4287-b84f-fd2afe4ba5b8)

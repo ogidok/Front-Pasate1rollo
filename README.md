@@ -41,7 +41,11 @@ Aquí solo se documenta el **aspecto visual** de la aplicación **Pasate1rollo**
 ![login](https://github.com/user-attachments/assets/9e5eb75f-1810-4287-b84f-fd2afe4ba5b8)
 
 ---
+### 🔐 Pantalla de Recuperacion de contraseña
+![recuperar contra](https://github.com/user-attachments/assets/96d14bbe-0f09-4c51-8075-10a9403c4443)
 
+
+---
 ### 📝 Pantalla de Registro
 ![registro](https://github.com/user-attachments/assets/1389aeaa-af43-4b95-b4ea-9b6f4b8699be)
 

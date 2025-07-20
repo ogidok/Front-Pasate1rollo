@@ -1,6 +1,6 @@
 # 🧻 Front-Pasate1rollo
 
-> **Repositorio visual** del proyecto **Pasate1rollo**  
+> **Repositorio visual** del proyecto en desarrollo **Pasate1rollo**  
 > Este espacio está destinado **exclusivamente a mostrar la interfaz y diseño visual del proyecto**, sin incluir código fuente, con el objetivo de **preservar la seguridad y confidencialidad** del desarrollo.
 
 ---
@@ -34,7 +34,13 @@ Aquí solo se documenta el **aspecto visual** de la aplicación **Pasate1rollo**
 ### 📜 Vista Detallada de un Producto
 ![detalle_producto](https://github.com/user-attachments/assets/32ae7ab0-c837-4a0a-8d9c-532fd88a5747)
 
+
 ---
+### 📜 Vista Carrito de compras
+<img width="1904" height="913" alt="image" src="https://github.com/user-attachments/assets/13e73285-c478-4644-9db1-ee0e8e789839" />
+---
+### 📜 Vista Resumen pago
+<img width="1897" height="910" alt="image" src="https://github.com/user-attachments/assets/caf97e85-6836-4b7a-85c5-f3c8c425cbfb" />
 
 ---
 ### 📜 Vista Detallada de perfil

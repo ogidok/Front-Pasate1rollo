@@ -19,7 +19,8 @@ Aquí solo se documenta el **aspecto visual** de la aplicación **Pasate1rollo**
 ## 🖼️ Capturas de Pantalla
 
 ### 🏠 Pantalla de Inicio
-![home](https://github.com/user-attachments/assets/b4b67e53-aeb2-427d-8098-edf0d23e50dc)
+<img width="1902" height="908" alt="image" src="https://github.com/user-attachments/assets/f611fda6-33a5-40f0-8ad8-f5662c0b2614" />
+
 
 ---
 
